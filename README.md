@@ -11,7 +11,7 @@
 <div align="center">
    <p>
      Desafio tem como principal objetivo realizar a construção de um layout totalmente do zero,
-     apenas baseando no protótipo passado pelo Figma, 
+     apenas baseado no protótipo passado pelo Figma, 
      utilizando os conhecimentos adquiridos com as tecnologias de HTML e CSS com conceitos do flebox.
   </p>
 </div>
