@@ -4,7 +4,7 @@
 
 <h2 align="center" >Descrição do Projeto</h2>
 <p align="center">
-  Rocket Sect é o ultimo desafio do Nivel 02 do programa Explorer da Rockeseat.
+  Rocket Sect é o ultimo desafio do nivel 02 do programa Explorer da Rockeseat.
 </p>
 </br>
 
